@@ -16,9 +16,7 @@
     "cli",
     "weather",
     "weatherinfo",
-    "node-cli",
-    "git",
-    "username"
+    "node-cli"
   ],
   "dependencies": {
     "chalk": "^2.4.1",
